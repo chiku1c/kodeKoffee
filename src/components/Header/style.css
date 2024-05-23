@@ -1,0 +1,8 @@
+.animated_card {
+    position: relative;
+    overflow: hidden;
+    border-width: 1px;
+    background-image: url(../../assets/image/continuebgoutborder.833f605c.svg);
+    border-radius: 15px;
+    border-color: #ed3c29;
+}

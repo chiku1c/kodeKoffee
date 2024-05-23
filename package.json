@@ -1,14 +1,22 @@
 {
-  "name": "task",
+  "name": "portfolio-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
+    "embla-carousel-react": "^8.1.3",
+    "react": "^18.2.0",
+    "react-animated-cursor": "^2.8.1",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.10.1",
+    "react-multi-carousel": "^2.8.5",
+    "react-particles": "^2.12.2",
     "react-scripts": "5.0.1",
+    "styled-components": "^6.1.11",
+    "tsparticles": "^2.12.0",
+    "typed.js": "^2.0.16",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -34,5 +42,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.3"
   }
 }
